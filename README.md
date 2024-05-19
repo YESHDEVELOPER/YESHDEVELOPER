@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @YESHDEVELOPER
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Internships and participating in the projects
+- 🌱 I’m currently learning Full Stack web development integrating with AIML
+- 💞️ I’m looking to collaborate on projects to do.
+- 📫 How to reach me ambaldageyeshwanth@gmail.com
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+
 [![Linkedin Badge](https://img.shields.io/badge/-YESH-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YESH--01629954/)](https://www.linkedin.com/in/YESH--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-YESH-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-YESH-yellow)](https://stackoverflow.com/users/3687251/YESH-)
